@@ -1,0 +1,29 @@
+.main{
+    width: 25%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 25px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: #e6e6e6;
+}
+.main>form{
+    width: 100%;
+    background-color: #e6e6e6;
+}
+.main>form>input,
+.main>form>select{
+    width: 90%;
+    margin: auto;
+    padding: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0.1px solid black;
+    background-color: #e6e6e6;
+}
+#postBtn{
+    border: none;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    color: white;
+    font-weight: bold;
+}
